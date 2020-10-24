@@ -7,4 +7,4 @@ QR codes are everywhere! Install qrcode reader app to scan QR code on the go. QR
 
 QR Scanner app is the only Ad free QR code reader you will ever need.
 ## Screenshots
-![Version1](https://user-images.githubusercontent.com/56834158/97082377-d438e980-1626-11eb-8a8c-d000bf7c9937.png)
+![Version1](https://user-images.githubusercontent.com/56834158/97082416-17935800-1627-11eb-9744-780dd806f63b.png)
