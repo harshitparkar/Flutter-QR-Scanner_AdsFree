@@ -5,8 +5,8 @@ QR Scanner can scan and read all QR codes / barcode types including text, url, I
 
 QR codes are everywhere! Install qrcode reader app to scan QR code on the go. QR Scanner app is the only Ads free scanner app you will ever need. Turn on the flashlight for scanning in the dark.
 
-## QR Scanner app is the only Ad free QR code reader you will ever need.
-Screenshots
+QR Scanner app is the only Ad free QR code reader you will ever need.
+## Screenshots
 ![Version2(1)](https://user-images.githubusercontent.com/56834158/97082474-a43e1600-1627-11eb-8763-de2a46224e7f.png)
 ![Version2(2)](https://user-images.githubusercontent.com/56834158/97082478-a607d980-1627-11eb-953a-cc15379f25f4.png)
 ![Version2(3)](https://user-images.githubusercontent.com/56834158/97082480-a7d19d00-1627-11eb-8aab-add93f8ce1cb.png)
